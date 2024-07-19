@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import React from "react";
-import Header from "./components/Header";
 import Paths from "./routes/Paths";
 
 const App = () => {
